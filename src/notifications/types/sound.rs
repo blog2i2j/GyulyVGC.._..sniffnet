@@ -1,8 +1,8 @@
 use std::fmt;
 use std::thread;
 
+use iced::Font;
 use iced::widget::Text;
-use iced::{Alignment, Font, Length};
 use rodio::{Decoder, OutputStream, Sink};
 use serde::{Deserialize, Serialize};
 
@@ -51,14 +51,11 @@ impl Sound {
             Sound::None => Icon::Forbidden.to_text(),
         }
         .size(FONT_SIZE_FOOTER)
-        .width(Length::Fill)
-        .align_x(Alignment::Center)
-        .align_y(Alignment::Center)
     }
 }
 
 pub fn play(sound: Sound, volume: u8) {
-    if sound.eq(&Sound::None) || volume == 0 {
+    if sound.eq(&Sound::None) || volume == 0 || cfg!(test) {
         return;
     }
     let mp3_sound = sound.mp3_sound();

@@ -12,7 +12,7 @@ Application to comfortably monitor your Internet traffic.<br>
 Cross-platform. Intuitive. Reliable.
 
 Translated in:<br>
-🇨🇳 🇩🇪 🇫🇷 🇷🇺 🇵🇹 🇪🇦 🇮🇹 🇵🇱 [+&nbsp;12&nbsp;more&nbsp;languages](https://github.com/GyulyVGC/sniffnet/issues/60)
+🇨🇳 🇩🇪 🇫🇷 🇷🇺 🇵🇹 🇪🇦 🇮🇹 🇵🇱 [+&nbsp;14&nbsp;more&nbsp;languages](https://github.com/GyulyVGC/sniffnet/issues/60)
 </div>
 
 <p>
@@ -25,7 +25,7 @@ Translated in:<br>
 <img alt="" title="Overview page" src="https://raw.githubusercontent.com/GyulyVGC/sniffnet/main/resources/repository/pages/overview.png" width="95%"/>
 <img alt="" title="Inspect page" src="https://raw.githubusercontent.com/GyulyVGC/sniffnet/main/resources/repository/pages/inspect.png" width="47%"/>
 <img alt="" title="Notifications page" src="https://raw.githubusercontent.com/GyulyVGC/sniffnet/main/resources/repository/pages/notifications.png" width="47%"/>
-<img alt="" title="Custom theme" src="https://raw.githubusercontent.com/GyulyVGC/sniffnet/main/resources/repository/pages/catppuccin.png" width="47%"/>
+<img alt="" title="Custom theme" src="https://raw.githubusercontent.com/GyulyVGC/sniffnet/main/resources/repository/pages/deep_cosmos.png" width="47%"/>
 <img alt="" title="Thumbnail mode" src="https://raw.githubusercontent.com/GyulyVGC/sniffnet/main/resources/repository/pages/thumbnail.png" width="47%"/>
 </div>
 
@@ -77,14 +77,14 @@ Not what you're looking for? Check out [alternative installation methods](https:
 - 📖 view overall **statistics** about your Internet traffic
 - 📈 view **real-time charts** about traffic intensity
 - 📌 keep an eye on your network even when the application is **minimized**
-- 📁 **export** comprehensive capture reports as **PCAP files**
+- 📁 **import** and **export** comprehensive capture reports as **PCAP files**
 - 🔎 identify **6000+ upper layer services**, protocols, trojans, and worms
 - 🌐 find out **domain name** and **ASN** of the hosts you are exchanging traffic with
 - 🏠 identify connections in your **local network**
-- 🌍 get information about the country of remote hosts (**IP geolocation**)
+- 🌍 discover the **geographical location** of remote hosts
 - ⭐ save your **favorite** network hosts
 - 🕵️‍♂️ search and **inspect** each of your network connections in real time
-- 🔉 set **custom notifications** to inform you when defined network events occur
+- 🔉 set custom **notifications** to inform you when defined network events occur
 - 🎨 choose the **style** that fits you the most, including custom themes support
 - ...and more!
 
@@ -149,5 +149,5 @@ Follow the <a href="https://sniffnet.net/news"><b>news</b></a> and Sniffnet soci
     <a href="https://www.linkedin.com/company/sniffnet"><img width="48" height="48" alt="LinkedIn" title="LinkedIn" src="https://raw.githubusercontent.com/GyulyVGC/sniffnet/main/resources/repository/badges/linkedin.svg"/></a>&nbsp;
     <a href="https://mastodon.social/@sniffnet"><img width="48" height="48" alt="Mastodon" title="Mastodon" src="https://raw.githubusercontent.com/GyulyVGC/sniffnet/main/resources/repository/badges/mastodon.svg"/></a>&nbsp;
     <a href="https://t.me/sniffnet"><img width="48" height="48" alt="Telegram" title="Telegram" src="https://raw.githubusercontent.com/GyulyVGC/sniffnet/main/resources/repository/badges/telegram.svg"/></a>&nbsp;
-    <a href="https://x.com/sniffnet_app"><img width="48" height="48" alt="Twitter / X" title="Twitter / X" src="https://raw.githubusercontent.com/GyulyVGC/sniffnet/main/resources/repository/badges/x.svg"/></a>
+    <a href="https://x.com/sniffnet"><img width="48" height="48" alt="Twitter / X" title="Twitter / X" src="https://raw.githubusercontent.com/GyulyVGC/sniffnet/main/resources/repository/badges/x.svg"/></a>
 </div>
